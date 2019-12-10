@@ -1,6 +1,12 @@
 # UkS_GTALoading
 GTA Loading for FunRP modified and customised in french by unikShe.
 
+## DOWNLOAD & INSTALLATION
+### Manually
+- Download: Click on "clone or download" then on "download zip"
+- Put it in the `resource/[UkS]/UkS_GTALoading` or `resource/UkS_GTALoading` directory
+
+
 ## SCREENSHOTS
 ![screenshot santa](https://raw.githubusercontent.com/unikShe/UkS_GTALoading/master/screenshot/santa-screen.PNG)
 
