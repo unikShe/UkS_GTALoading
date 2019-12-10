@@ -3,7 +3,8 @@ GTA Loading for FunRP modified and customised in french by unikShe.
 
 ## DOWNLOAD & INSTALLATION
 ### Manually
-- Download: Click on "clone or download" then on "download zip"
+- Download: Click on `clone or download` then on `download zip`
+- Retrieved from the archive the folder `UkS_GTALoading` in `FiveM.addons`
 - Put it in the `resource/[UkS]/UkS_GTALoading` or `resource/UkS_GTALoading` directory
 
 
